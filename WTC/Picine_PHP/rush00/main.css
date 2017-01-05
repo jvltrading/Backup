@@ -1,0 +1,198 @@
+
+body {
+    background-image: url(http://wallpapercave.com/wp/rBVRF0N.jpg);
+    position: absolute;
+}
+
+.header
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 5px 5px 5px #000;
+    background-color: #FDFFB1;
+    color: #FDFFB1;
+    font-size: 2vh;
+    font-family: impact;
+    padding: 10px;
+    border: 15px;
+}
+
+#delete_header
+{
+    font-family: Impact, Charcoal, sans-serif; 
+    font-size: 1.5vh;
+    border: solid red 2px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+#logout_header
+{
+    font-family: Impact, Charcol, sans-serif;
+    font-size: 1.5vh;
+    border: solid red 2px;
+    border-radius: 5px;
+    text-decoration: none;  
+}
+
+label{
+    color: whitesmoke;
+}
+
+#remember{
+    color: whitesmoke;
+}
+
+#image{
+    margin: auto;
+    width: 40%;
+}
+.register{
+    background-color: deepskyblue;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #F1273F;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+.container {
+    margin-left: 30vw;
+    margin-top: 8vw;
+    width: 60%;
+    padding: 20px;
+}
+
+span.psw {
+    float: left;
+    padding-top: 16px;
+}
+
+@media screen and (max-width: 300px) {
+    span.psw {
+        display: block;
+        float: none;
+    }
+    .cancelbtn {
+        width: 100%;
+    }
+}
+
+#nav
+{
+    z-index: 999;
+    background: #fff;
+    width: 100%;
+    min-height: 80px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    box-shadow: 1px 1px 3px 3px;
+}
+
+.row
+{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#home_logo
+{
+    float: left;
+}
+
+.styling_nav
+{
+    padding: 10px;
+    border: solid black 2px;
+    border-radius: 2px;
+}
+
+a{
+    color: inherit;
+}
+
+a{
+    text-decoration: none;
+}
+
+#home_menu
+{
+    float: right;
+}
+
+ul, menu, dir
+{
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+#center_image
+{
+    margin-left: 50%;
+    width: 100%;
+    margin-top: 20%;
+}
+
+.special_text
+{
+    margin-left: 25%;
+    color: #6DBC00;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+#first
+{
+    height: 30%;
+    width: 30%;
+}
+
+table
+{
+    position: relative;
+    top: 150px;
+    width: 80%;
+}
+
+figcaption
+{
+    color: #6DBC00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+
+button
+{
+    width: 40%;
+}

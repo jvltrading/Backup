@@ -1,0 +1,62 @@
+        BODY {background-color:#800000;}
+		H1 {color:blue;}
+		.alkali_metal
+		{
+			border: 1px solid red;
+		}
+		.alkaline_metal
+		{
+			border: 1px solid #ffa500;
+		}
+		.transition_metal
+		{
+			border: 1px solid yellow;
+		}
+		.metalloids
+		{
+			border: 1px solid #009900;		
+		}
+		.other_mtls
+		{
+			border: 1px solid teal;
+		}
+		.nonmetals
+		{
+			border: 1px solid blue;
+		}
+		.halogenes
+		{
+			border: 1px solid #9999ff
+		}
+		.gases_nbl
+		{
+			border: 1px solid #9933ff
+		}
+		.lanthanoids
+		{
+			border: 1px solid lime;
+		}
+		.actinoids
+		{
+			border: 1px solid #cccc00;
+		}
+		.supd
+		{
+			text-align: right;
+			font-size: 1.5vh;
+		}
+		.elem_font
+		{
+			text-align: center;
+			font-weight: bold;
+            font-size: 1.5vh;
+		}
+		.subd
+		{
+			text-align: left;
+			font-size: 1.5vh;
+		}
+        th
+        {
+            font-size: 1.5vh;
+        }

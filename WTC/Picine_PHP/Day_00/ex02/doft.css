@@ -1,0 +1,223 @@
+BODY
+{
+	background-color: #515050;
+}
+
+#top
+{
+	width: 1690px;
+	margin-left: 100px;
+	background-color: #909090;
+	border-radius: 20px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+#left
+{
+	text-align: center;
+	width: 130px;
+	height: 525px;
+	margin-left: 140px;
+	margin-top: 20px;
+	background-color: #909090;
+	border-radius: 10px;
+	box-shadow:13px 13px 12px #000;
+}
+
+#center
+{
+	z-index: 0;
+	width: 1220px;
+	height: 690px;
+	margin-left: 325px;
+	margin-top: -525px;
+	background-color: #909090;
+	border-radius: 10px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+#cluster
+{
+	z-index: 1;
+	margin-left: 15px;
+	margin-top: 15px;
+	width: 1190px;
+}
+
+#right
+{
+	text-align: center;
+	width: 150px;
+	height: 525px;
+	margin-left: 1600px;
+	margin-top: -690px;
+	background-color: #909090;
+	border-radius: 10px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+#chat
+{
+	z-index: 10;
+	position: absolute;
+	margin-left: 70px;
+	margin-top: 50px;
+	width: 580px;
+	height: 190px;
+	background-color: #8cfd8e;
+	border-radius: 10px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+#dot42_size
+{
+	float: left;
+	margin-left: 15px;
+	margin-top: 20px;
+	width: 500px;
+}
+
+#right_top_head
+{
+	float: right;
+	margin: 15px 15px 0 0;
+	width: 1.5%;
+}
+
+#right_bot_head
+{
+	float: right;
+	margin: 130px -25px 0 0;
+	width: 1.5%;
+}
+
+#magnify
+{
+	margin-left: 780px;
+	margin-bottom: -30px;
+	width: 350px;
+}
+
+#arrow
+{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 80px;
+}
+
+#hand
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 80px;
+}
+
+#eye
+{
+	border: solid red 7px;
+	border-radius: 7px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 80px;
+}
+
+#tool
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 80px;
+}
+
+#talk
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 80px;
+}
+
+
+#book
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 90px;
+}
+
+#towel
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100px;
+}
+
+#wall
+{
+	margin-left: 15px;
+	width: 120px;
+	height: 100px;
+	background-image: url("resources/brick.jpg");
+}
+
+.first_para
+{
+	margin-left: 15px;
+	margin-top: 15px;
+	font-size: 21px;
+	letter-spacing: 2px;
+	font-family: Arial, serif;
+	font-style: italic;
+}
+
+.second_para
+{
+	margin-left: 15px;
+	font-size: 21px;
+	letter-spacing: 1px;
+	font-family: Arial, serif;
+	font-style: italic;
+}
+
+.text1
+{
+	font-size: 37px;
+}
+
+.text2
+{
+	text-shadow: 8px 8px 6px #d00;
+}
+
+.text_wow
+{
+	border: 3px inset;
+	margin-left: 20px;
+    width: 470px;
+	height: 25px;
+}
+
+#button
+{
+	margin-left: 5px;
+	width: 100px;
+	height: 25px;
+	font-size: 15px;
+	letter-spacing: 1px;
+}
+
+#screen
+{
+    height: 15%;
+    width: 12%;
+    position: absolute;
+    bottom: 26%;
+    left: 67%;
+}
+
+#chair
+{
+    height: 20%;
+    width:8%;
+    position: absolute;
+    bottom: 20%;
+    left: 36%;
+}

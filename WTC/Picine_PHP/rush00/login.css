@@ -1,0 +1,81 @@
+
+body {
+    position: center;
+    background-image: url(http://wallpapercave.com/wp/rBVRF0N.jpg);
+}
+
+label{
+    color: whitesmoke;
+}
+
+#remember{
+    color: whitesmoke;
+}
+
+#image{
+    margin-left: 17.5vw;
+    margin-top: 2vw;
+}
+.register{
+    background-color: deepskyblue;
+    text-decoration: none;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #F1273F;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+.container {
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+
+.create_forgot
+{
+    opacity: 0.9;
+    background-color: #0A0025;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.psw {
+    float: left;
+    padding-top: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width: 300px) {
+    .psw 
+    {
+        display: block;
+        float: none;
+        text-decoration: none;
+    }
+    .cancelbtn {
+        width: 100%;
+    }
+}
